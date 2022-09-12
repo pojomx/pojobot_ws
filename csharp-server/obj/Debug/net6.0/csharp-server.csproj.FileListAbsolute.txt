@@ -1,0 +1,17 @@
+C:\Users\pojo\source\repos\csharp-server\bin\Debug\net6.0\csharp-server.exe
+C:\Users\pojo\source\repos\csharp-server\bin\Debug\net6.0\csharp-server.deps.json
+C:\Users\pojo\source\repos\csharp-server\bin\Debug\net6.0\csharp-server.runtimeconfig.json
+C:\Users\pojo\source\repos\csharp-server\bin\Debug\net6.0\csharp-server.dll
+C:\Users\pojo\source\repos\csharp-server\bin\Debug\net6.0\csharp-server.pdb
+C:\Users\pojo\source\repos\csharp-server\bin\Debug\net6.0\websocket-sharp.dll
+C:\Users\pojo\source\repos\csharp-server\obj\Debug\net6.0\csharp-server.csproj.AssemblyReference.cache
+C:\Users\pojo\source\repos\csharp-server\obj\Debug\net6.0\csharp-server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pojo\source\repos\csharp-server\obj\Debug\net6.0\csharp-server.AssemblyInfoInputs.cache
+C:\Users\pojo\source\repos\csharp-server\obj\Debug\net6.0\csharp-server.AssemblyInfo.cs
+C:\Users\pojo\source\repos\csharp-server\obj\Debug\net6.0\csharp-server.csproj.CoreCompileInputs.cache
+C:\Users\pojo\source\repos\csharp-server\obj\Debug\net6.0\csharp-server.csproj.CopyComplete
+C:\Users\pojo\source\repos\csharp-server\obj\Debug\net6.0\csharp-server.dll
+C:\Users\pojo\source\repos\csharp-server\obj\Debug\net6.0\refint\csharp-server.dll
+C:\Users\pojo\source\repos\csharp-server\obj\Debug\net6.0\csharp-server.pdb
+C:\Users\pojo\source\repos\csharp-server\obj\Debug\net6.0\csharp-server.genruntimeconfig.cache
+C:\Users\pojo\source\repos\csharp-server\obj\Debug\net6.0\ref\csharp-server.dll
